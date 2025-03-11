@@ -1,7 +1,7 @@
 # ACMW-Jump Documentation Project
 
 <div align="center">
-  <img src="static/img/github-profile.png" alt="Project Logo" width="100" height="100" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/154e909f-da57-4ce8-9dc9-e466ca3c3004" alt="Project Logo" width="100" height="100" style="border-radius: 50%;">
   <h3 align="center">ACMW-Jump Mentorship Documentation Template</h3>
   <p align="center">
     A Docusaurus-powered documentation site template for mentees to document their learning journey
