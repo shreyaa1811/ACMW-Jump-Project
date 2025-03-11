@@ -29,7 +29,6 @@
   - [Adding Code Samples](#adding-code-samples)
 - [Deployment](#deployment)
   - [GitHub Pages Setup](#github-pages-setup)
-  - [Manual Deployment](#manual-deployment)
   - [Automatic Deployment](#automatic-deployment)
 - [Project Timeline](#project-timeline)
 - [Troubleshooting](#troubleshooting)
@@ -364,24 +363,14 @@ You can specify different languages for syntax highlighting:
 1. In your GitHub repository, go to "Settings" > "Pages"
 2. Set the "Source" to "GitHub Actions"
 
-### Manual Deployment
-
-You can manually deploy your site using the following command:
-
-```bash
-npm run build
-npm run deploy
 ```
-
-This will build the static files and push them to the `gh-pages` branch of your repository.
 
 ### Automatic Deployment
 
 This repository is set up to automatically deploy to GitHub Pages whenever you push changes to the `main` branch. The GitHub Actions workflow will:
 
 1. Build the static site
-2. Deploy it to the `gh-pages` branch
-3. Make it available at `https://YOUR-USERNAME.github.io/ACMW-Jump-Project/`
+2. Make it available at `https://YOUR-USERNAME.github.io/ACMW-Jump-Project/`
 
 ## 📅 Project Timeline
 
