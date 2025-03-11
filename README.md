@@ -80,7 +80,7 @@ ACMW-Jump-Project/
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) version 16.14 or above
+- [Node.js](https://nodejs.org/) version 18.0 or above
 - [Git](https://git-scm.com/) for version control
 - A GitHub account for deployment
 
