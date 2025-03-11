@@ -363,8 +363,6 @@ You can specify different languages for syntax highlighting:
 1. In your GitHub repository, go to "Settings" > "Pages"
 2. Set the "Source" to "GitHub Actions"
 
-```
-
 ### Automatic Deployment
 
 This repository is set up to automatically deploy to GitHub Pages whenever you push changes to the `main` branch. The GitHub Actions workflow will:
