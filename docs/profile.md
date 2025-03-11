@@ -1,76 +1,120 @@
 ---
 id: profile
-title: Mentor Profile
+title: Mentee Profile
 ---
 
-# Prakash Aryan
+# Shreyaa Murali | Computer Science Student Portfolio 
 
-<div style={{display: 'flex', justifyContent: 'center', marginBottom: '20px'}}>
-  <img src="https://avatars.githubusercontent.com/u/53960016?v=4" alt="Prakash Aryan" style={{borderRadius: '50%', width: '200px', height: '200px', objectFit: 'cover'}}/>
+![Profile Photo](https://avatars.githubusercontent.com/u/190090993?s=400&u=517e9aa7d3a590f8cc71a820c26915390768528b&v=4)
+
+## About Me 👋
+
+I'm a Computer Science student studying B.E at Birla Institute of Technology and Sciences, Dubai, UAE. 
+I have a passion for coding and I am enthusiastic about software development and cybersecurity. 
+An avid learner seeking opportunities to enhance programming knowledge and gain expertise in technical skills and industry practices.
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyaa1811)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyaa18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20230300@dubai.bits-pilani.ac.in)
+
 </div>
 
-## About Me
+---
 
-I am currently pursuing my Master of Engineering in Software Systems at Birla Institute of Technology and Science, Dubai, UAE. I completed my Bachelor of Technology in Computer Engineering with a specialization in Artificial Intelligence from Poornima University, Jaipur, India.
+## 🎓 Education
 
-My expertise spans various domains including robotics, AI, machine learning, and software development. I'm particularly interested in the intersection of these fields and how they can be applied to solve real-world problems.
+**Bachelor of Engineering in Computer Science**  
+*BITS Pilani Dubai, Expected Graduation: September 2027*
+- CGPA: 9.91/10
+- Relevant Coursework: C Programming, Object Oriented Programming, Data Structures & Algorithms, Database Management Systems. Digital Design, Microprocessor and Interfacing
 
-## Professional Experience
+**High School Diploma**  
+*Delhi Private School Dubai, Graduated in February 2023*
+- Grade : 97%
+- Developed a strong foundation in Computer Science, Mathematics and Science.
+- Participated in coding clubs and also developed a basic application as a part of a competition.
+- Excelled in subjects such as Computer Science and Mathematics.
+- Achieved subject proficiency in Computer Science
+- Laid the groundwork for my passion in Computer Science and cybersecurity
+---
 
-### Research Assistant
-**BITS Pilani Dubai Campus, Dubai, UAE** | *Sep 2023–Dec 2024*
+## 🚀 Projects
 
-- Simulated 5+ robot behaviors using Unity and ROS2, improving testing efficiency by 30%.
-- Developed 3 VR/MR apps for robot control, conducting 20+ simulations in MetaQuest 3 headset.
-- Created and deployed 4 custom ROS2 packages using Docker, improving modularity and scalability.
-- Implemented SLAM algorithms for autonomous navigation, achieving 95% accuracy in unknown environments.
+###  E Commerce Platform | Java, IntelliJ, MySQL Database
 
-### Teaching Assistant (Lab)
-**BITS Pilani Dubai Campus, Dubai, UAE** | *Sep 2023–Jun 2024*
+- Developed a shopping platform with both user interface and admin functionality.  
+- The system supports CRUD operations on product data and enhances user experience with an intuitive Java Swing interface. 
+- This project enhanced both my technical and interpersonal skills such as Collaboration and Teamwork.
 
-- Provided guidance and support to undergraduate students in understanding computer architecture concepts.
-- Taught in additional labs such as Computer Networks, Data Structures and Algorithms (DSA), and Database Systems.
+[View Project](https://github.com/shreyaa1811/Shopping-App-OOP) 
 
-## Skills
+###  Hospital Management | Python, MySQL Database  
 
-- **Programming Languages**: Python, C/C++, C# (WPF), JavaScript, TypeScript, Rust, Bash Scripting
-- **Machine Learning & AI**: Machine Learning, Deep Learning, Generative AI, Stable Diffusion, Large Language Models, Natural Language Processing, Computer Vision
-- **Frameworks & Libraries**: .NET, Flask, FastAPI, Tensorflow, PyTorch, llama.cpp, GGUF, QLoRA, OpenCV, SAM2, Langchain
-- **Robotics**: Robot Operating System (ROS1 and ROS2), SLAM, Navigation Stack, Gazebo, MoveIt, PCL, TF2, RViz
-- **Extended Reality**: XR and Unity
-- **Web Technologies**: React, Next.js, Node.js, Three.js
-- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis), Vector Database (Chroma DB)
-- **DevOps & Tools**: Docker, Kubernetes, Git, GitHub, CI/CD, GitHub Actions, Jira, AWS
-- **Operating Systems**: Linux (Ubuntu and Arch Linux), freeBSD
+- Developed a comprehensive hospital management system using Python and MySQL, enabling efficient management of patient records, appointments, and medical staff.  
+- The system includes functionalities for adding, updating, and deleting patient details, scheduling appointments, and managing hospital resources. 
+- Integrated MySQL database for secure and organized data storage, ensuring smooth and scalable operations for hospital management.
 
-## Selected Research Projects
+[View Project](https://github.com/shreyaa1811/Hospital-Management) 
 
-1. LLMs as Debate Partners: Utilizing Genetic Algorithms and Adversarial Search for Adaptive Arguments
-2. Resource-Aware Arabic LLM Creation: Model Adaptation, Integration, and Multi-Domain Testing
-3. Robot Retrieval and Stocking of Mixed-Size Cardboard Boxes
-4. XR Robotics Simulation in Metaquest3 using Unity and ROS2
-5. Human-Robot Interaction: Natural Language Commands for Vision-Based Navigation on TurtleBot3
-6. BabbleBot.tech: Culturally-aware Arabic AI Avatar chatbots for MENA
+---
 
-## Leadership
+## 🛠️ Technical Skills
 
-- **Mentor, IFOR robotics club** | *Sep 2024–Present*
-- **Vice President, Linux Users Group** | *Aug 2023–Jun 2024*
+<div align="center">
 
-## Contact
+| **Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
+|---------------|----------------------------|-----------------------|
+| Python        | FastAPI                    | Git & GitHub          |
+| Java          | JDBC                       | VS Code               |
+| C             | Java Swing                 |                       |
+         
 
-- **Email**: h20230010@dubai.bits-pilani.ac.in
-- **GitHub**: [@prakash-aryan](https://github.com/prakash-aryan)
-- **LinkedIn**: [Prakash Aryan](https://www.linkedin.com/in/prakash-aryan/)
-- **Website**: [prakasharyan.com](https://prakasharyan.com)
 
-## ACMW-Jump Mentorship Project
+</div>
 
-I am currently mentoring a team for the ACMW-Jump program, where we are working on a security and monitoring project. Our team consists of four talented individuals, each focusing on different aspects of the project:
+---
 
-1. **Security & Database Engineering**
-2. **Data Infrastructure Engineering**
-3. **Machine Learning Engineering**
-4. **LLM Engineering**
+## 📚 Certifications
 
-Follow our progress through the documentation section!
+- **Introduction to Cybersecurity** - Great Learning
+- **Introduction to Ethical Hacking** - Great Learning
+- **Security Analyst Fundamentals Specialization (Penetration Testing, Threat Hunting, Cryptography, Incidence Response and Digital Forensics)** - Coursera(IBM)
+
+---
+## 🎯 Other Skills
+### 🗣️Languages
+- English
+- Arabic(Basic)
+- Hindi
+- Tamil
+- Malayalam
+---
+### 📚Hobbies
+- Reading
+- Singing
+- Drawing
+- Badminton
+---
+### 💡Soft Skills
+-  Communication 
+- Collaboration 
+- Problem-Solving 
+- Time Management
+- Leadership
+- Teamwork
+---
+
+## 📫 Contact
+
+Feel free to reach out to me at [f20230300@dubai.bits-pilani.ac.in](mailto:your.email@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/shreyaa18).
+
+
+---
+
+<footer>
+<div align="center">
+  <p>© 2025 Shreyaa Murali | Last Updated: March 2025</p>
+</div>
+</footer>
