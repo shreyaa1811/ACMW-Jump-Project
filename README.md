@@ -92,7 +92,7 @@ ACMW-Jump-Project/
 
 2. Clone your forked repository
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ACMW-Jump-Project.git
+   git clone git@github.com:EigenvectorsAndChill/ACMW-Jump-Project.git
    cd ACMW-Jump-Project
    ```
 
