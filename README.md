@@ -6,7 +6,7 @@
   <p align="center">
     A Docusaurus-powered documentation site template for mentees to document their learning journey
     <br />
-    <a href="https://prakash-aryan.github.io/ACMW-Jump-Project/"><strong>View Demo »</strong></a>
+    <a href="https://eigenvectorsandchill.github.io/ACMW-Jump-Project/"><strong>View Demo »</strong></a>
   </p>
 </div>
 
