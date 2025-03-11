@@ -17,13 +17,13 @@ const config = {
   // TODO: MENTEE - Update with your GitHub username
   url: 'https://shreyaa1811.github.io',
   // TODO: MENTEE - Update with your repository name
-  baseUrl: '/ACMW-Jump-Project-1/',
+  baseUrl: '/ACMW-Jump-Project/',
 
   // GitHub pages deployment config
   // TODO: MENTEE - Update with your GitHub username
   organizationName: 'shreyaa1811',
   // TODO: MENTEE - Update with your repository name
-  projectName: 'ACMW-Jump-Project-1',
+  projectName: 'ACMW-Jump-Project',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,13 +46,13 @@ const config = {
           routeBasePath: 'docs',
           // TODO: MENTEE - Update with your GitHub username and repository name
           editUrl:
-            'https://github.com/prakash-aryan/ACMW-Jump-Project/tree/main/',
+            'https://github.com/shreyaa1811/ACMW-Jump-Project/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // TODO: MENTEE - Update with your GitHub username and repository name
           editUrl:
-            'https://github.com/shreyaa1811/ACMW-Jump-Project-1/tree/main/',
+            'https://github.com/shreyaa1811/ACMW-Jump-Project/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
