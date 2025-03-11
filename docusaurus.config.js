@@ -133,11 +133,11 @@ const config = {
           },
         ],
       },
-      // Updated colorMode settings
+      // Updated colorMode settings to ensure light mode is default
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false, // Changed to false so it doesn't override with user preferences
       },
       // Fixed prism settings
       prism: {
