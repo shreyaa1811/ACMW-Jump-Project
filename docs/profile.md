@@ -6,7 +6,7 @@ title: Mentee Profile
 # Shreyaa Murali | Computer Science Student Portfolio 
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/190090993?s=400&u=517e9aa7d3a590f8cc71a820c26915390768528b&v=4" alt="Banner Image">
+  <img src="https://avatars.githubusercontent.com/u/190090993?s=400&u=517e9aa7d3a590f8cc71a820c26915390768528b&v=4" alt="Banner Image" />
 </div>
 
 ## About Me 👋
