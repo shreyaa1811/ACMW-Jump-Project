@@ -73,7 +73,7 @@ const config = {
           // TODO: MENTEE - Update alt text with your name
           alt: 'Shreyaa Murali',
           // TODO: MENTEE - Update with your profile picture
-          src: '/img/github-profile.png',
+          src: '/img/icon.png',
         },
         items: [
           {
