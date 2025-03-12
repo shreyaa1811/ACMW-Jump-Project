@@ -10,7 +10,7 @@ const config = {
   // TODO: MENTEE - Update your tagline/slogan here
   tagline: 'On my journey as a software engineer, one step at a time',
   // TODO: MENTEE - Update favicon path or add your own image
-  favicon: 'img/github-profile.png',
+  favicon: 'img/icon.png',
   trailingSlash: true,
 
   // Set the production url of your site here
