@@ -44,6 +44,19 @@ An avid learner seeking opportunities to enhance programming knowledge and gain 
 
 ## 🚀 Projects
 
+### FastAPI CRUD Application | FastAPI, Python, SQLite
+
+- A collaborative assignment to implement CRUD (Create, Read, Update, Delete) operations using SQLite in a FastAPI application.
+- Implemented the create operation that was designed to :
+   - Takes a database session and an item schema
+  - Creates a new Item object using the data from the schema
+   - Adds it to the database
+   - Commits the transaction
+   - Refreshes the item to get the auto-generated ID
+   - Returns the created item
+
+[View Project](https://github.com/EigenvectorsAndChill/fastapi_crud) 
+
 ###  E Commerce Platform | Java, IntelliJ, MySQL Database
 
 - Developed a shopping platform with both user interface and admin functionality.  
@@ -59,6 +72,8 @@ An avid learner seeking opportunities to enhance programming knowledge and gain 
 - Integrated MySQL database for secure and organized data storage, ensuring smooth and scalable operations for hospital management.
 
 [View Project](https://github.com/shreyaa1811/Hospital-Management) 
+
+
 
 ---
 
