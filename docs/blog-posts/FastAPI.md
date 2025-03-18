@@ -7,7 +7,7 @@ description: Understanding FastAPI, its key features and Advantages
 # Introduction to FastAPI
 FastAPI is a modern, high-performance web framework designed for building APIs with Python. It leverages Python type hints and is built on top of the Starlette web server, offering features like automatic data validation, interactive API documentation, and robust support for asynchronous operations. In this blog, we'll explore what makes FastAPI special and how it can enhance your API development experience.
 
-![FastAPI Logo](/img/FASTAPI.jpg)
+![FastAPI Logo](/img/FastAPI.jpg)
 
 ---
 
