@@ -59,12 +59,16 @@ def hello_world():
 
 Check out these examples to see how to structure and format your blog posts:
 
-- [Git Branching Strategies](./git-branching) - A comprehensive guide to Git branching models with visual diagrams and code examples
+- [Markdown Language](./Markdown.md) -Understanding Markdown for easy formatting
 
 ## Latest Posts
 
 <!-- TODO: MENTEE - Add links to your blog posts here -->
-- [Git Branching Strategies](./git-branching) - Understanding different Git branching models for effective collaboration
+- [Markdown Language](./Markdown.md) - Understanding Markdown for easy formatting
+- [SQL](./SQL.md) - Understanding SQL and its basics
+- [FastAPI](./FastAPI.md) - Understanding FastAPI and its basics
+- [Virtual Environments](./venv_creation.md) - Understanding Virtual Environments and the steps to create a venv in VS Code
+- [Security Analyst Fundamentals](./security_funda.md) - Understanding fundamental Security Concepts
 
 ## Learning Updates
 

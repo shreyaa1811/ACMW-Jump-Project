@@ -11,11 +11,20 @@ slug: /
 This documentation site is part of the ACM-W Junior Mentorship Program (JuMP), a 3-month initiative designed to help participants learn from experienced mentors, collaborate on exciting projects, and grow in their technical journey.
 
 <!-- TODO: MENTEE - Add a brief description of the specific project you're working on -->
+The project that we are working on is an advanced security monitoring system that uses AI(specifically LLM's) to generate realistic security data and detect potential threats. 
 
 ## My Role
 
 <!-- TODO: MENTEE - Describe your role in the project and your responsibilities -->
-As a mentor in the ACMW-Jump program, I'm responsible for guiding my team through security and monitoring challenges, helping them develop technical skills, and supporting their professional growth.
+As a mentee in the ACMW-Jump program, I have been assigned the role of the Security and Database Engineer. My focus will be on traditional security analysis and database handling. 
+
+My responsibilities include :
+- Creating rule-based detection systems using security patterns.
+- Working with multiple data sources(MySQL, PostgreSQL).
+- Examples :
+   - Alert when 5+ failed logins occur in 1 minute.
+   - Detect suspicious access at odd hours.
+   - Identify multiple logins from different locations.
 
 ## Project Timeline
 

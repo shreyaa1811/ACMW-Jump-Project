@@ -17,7 +17,7 @@ const sidebars = {
   tutorialSidebar: [
     // Root level pages
     'intro',                  // Main landing page for docs
-    'profile',                // Your profile page
+                    
     
     // Documentation section
     // TODO: MENTEE - Expand this section with your technical documentation
@@ -39,18 +39,28 @@ const sidebars = {
     
     // Blog posts section
     // TODO: MENTEE - Add your blog posts here as they're created
-    'blog-posts/index',       // Blog posts landing page
+    //'blog-posts/index',       // Blog posts landing page
     
     // Example of how to add a specific blog post
     // 'blog-posts/git-branching',
     
     // TODO: MENTEE - Add more categories or documents as needed
-    // For example:
-    // {
-    //   type: 'category',
-    //   label: 'Tutorials',
-    //   items: ['tutorials/getting-started', 'tutorials/advanced'],
-    // },
+    {
+      type : 'category',
+      label:'Blog Posts',
+      link:{
+        type:'doc',
+        id:'blog-posts/index',
+      },
+      items:[
+        'blog-posts/Markdown',
+        'blog-posts/SQL',
+        'blog-posts/FastAPI',
+        'blog-posts/venv_creation',
+        'blog-posts/security_funda'
+
+      ],
+    },
   ],
   
   // TODO: MENTEE - You can create additional sidebars for different sections
