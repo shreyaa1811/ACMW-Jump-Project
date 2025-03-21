@@ -13,7 +13,7 @@ This documentation site is part of the ACM-W Junior Mentorship Program (JuMP), a
 <!-- TODO: MENTEE - Add a brief description of the specific project you're working on -->
 The project that we are working on is an advanced security monitoring system that uses AI(specifically LLM's) to generate realistic security data and detect potential threats. 
 
-## My Role
+## Security and Database Engineer
 
 <!-- TODO: MENTEE - Describe your role in the project and your responsibilities -->
 As a mentee in the ACMW-Jump program, I have been assigned the role of the Security and Database Engineer. My focus will be on traditional security analysis and database handling. 

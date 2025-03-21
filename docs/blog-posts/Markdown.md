@@ -51,6 +51,15 @@ Use **#** symbols to define headings. The number of # symbols determines the hea
 #### 4. Links
  Format links by surrounding the link text with square brackets and the URL with parentheses 
 
+  **Sample :**
+ ```
+[Link Text](https://example.com)
+ ```
+**Output :**
+ [Link Text](https://example.com)
+
+ ---
+
 #### 5. Tables
 Use pipes (|) to create tables with headers and rows.
 
@@ -70,14 +79,7 @@ Use pipes (|) to create tables with headers and rows.
 | Bob   | 30  | London   |
 | Eve   | 22  | Paris    |
  
- **Sample :**
- ```
-[Link Text](https://example.com)
- ```
-**Output :**
- [Link Text](https://example.com)
-
- ---
+---
 
 ## Conclusion
 Markdown is a powerful tool for anyone looking to format text without needing extensive HTML knowledge. Its simplicity and flexibility make it ideal for web content creation, documentation, and personal note-taking. Whether you're a seasoned developer or just starting out, Markdown is an excellent choice for enhancing your writing workflow.

@@ -11,7 +11,7 @@ title: Mentee Profile
 
 ## About Me 👋
 
-I'm a Computer Science student studying B.E at Birla Institute of Technology and Sciences, Dubai, UAE. 
+I'm a Computer Science student studying B.E Computer Science at Birla Institute of Technology and Sciences, Dubai, UAE. 
 I have a passion for coding and I am enthusiastic about software development and cybersecurity. 
 An avid learner seeking opportunities to enhance programming knowledge and gain expertise in technical skills and industry practices.
 
