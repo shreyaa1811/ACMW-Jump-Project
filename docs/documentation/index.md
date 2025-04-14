@@ -57,7 +57,7 @@ To link to other documentation files within your project:
 [Link to ETL Process Guide](./etl-process)
 ```
 
-Example: Check out our [ETL Process Guide](./etl-process) for a detailed example.
+Example: Check out our [Datagrip](./datagrip) for a detailed example.
 
 ### Updating JavaScript Files
 
@@ -83,7 +83,7 @@ const config = {
 
 For a complete example of documentation that includes code, images, and detailed explanations, see:
 
-- [ETL Process Guide](./etl-process) - A comprehensive guide to building ETL pipelines
+- [Datagrip](./datagrip) - A comprehensive guide to configure datagrip
 
 ## Project Documentation
 
