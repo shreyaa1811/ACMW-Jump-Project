@@ -30,7 +30,7 @@ const sidebars = {
     // Example of how to create a category with nested pages
     {
        type: 'category',
-       label: 'Project Guides',
+       label: 'Documentations',
        items: [
          'documentation/db-installations',
          'documentation/datagrip'
