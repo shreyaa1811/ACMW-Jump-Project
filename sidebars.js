@@ -32,7 +32,7 @@ const sidebars = {
        type: 'category',
        label: 'Project Guides',
        items: [
-         'documentation/db-installation',
+         'documentation/db-installations',
          'documentation/datagrip'
        ],
      },
