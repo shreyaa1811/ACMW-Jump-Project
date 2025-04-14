@@ -22,7 +22,7 @@ const sidebars = {
     // Documentation section
     // TODO: MENTEE - Expand this section with your technical documentation
     // You can either add more files as direct entries or create nested categories
-    'documentation/index',    // Documentation landing page
+    //'documentation/index',    // Documentation landing page
     
     // Example of how to add a specific document
     // 'documentation/etl-process', 
