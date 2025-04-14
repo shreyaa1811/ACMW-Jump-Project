@@ -22,20 +22,20 @@ const sidebars = {
     // Documentation section
     // TODO: MENTEE - Expand this section with your technical documentation
     // You can either add more files as direct entries or create nested categories
-    'documentation/index',    // Documentation landing page
+    //'documentation/index',    // Documentation landing page
     
     // Example of how to add a specific document
     // 'documentation/etl-process', 
     
     // Example of how to create a category with nested pages
-    // {
-    //   type: 'category',
-    //   label: 'Project Guides',
-    //   items: [
-    //     'documentation/project-a',
-    //     'documentation/project-b',
-    //   ],
-    // },
+    {
+       type: 'category',
+       label: 'Project Guides',
+       items: [
+         'documentation/db-installation',
+         'documentation/datagrip'
+       ],
+     },
     
     // Blog posts section
     // TODO: MENTEE - Add your blog posts here as they're created
